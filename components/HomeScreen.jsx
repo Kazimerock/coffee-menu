@@ -81,7 +81,7 @@ export default function HomeScreen() {
           />
         </View>
 
-        <View className="mt-16 py-2">
+        <View className="py-2">
           <Carousel
             containerCustomStyle={{ overflow: "visible" }}
             data={coffeeItems}
